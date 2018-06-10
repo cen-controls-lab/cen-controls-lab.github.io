@@ -21,7 +21,7 @@ social:
   - title: github
     url: https://github.com/a1noack
   - title: facebook
-    url:https://www.facebook.com/adam.noack.94
+    url: https://www.facebook.com/adam.noack.94
 
 # Build settings
 markdown: kramdown
