@@ -2,7 +2,7 @@
 title: Adam Noack
 email: adamnoack1@gmail.com
 url: https://a1noack.github.io
-description: "Hello! My name is Adam, and my missions is to help build provably safe AI for the benefit of all."
+description: "Hello! My name is Adam, and my mission is to help build provably safe AI for the benefit of all."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -16,12 +16,12 @@ footer: Adam Noack's website
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/adam-noack-2511a199/
-  - title: facebook
-    url:https://www.facebook.com/adam.noack.94
   - title: stack-overflow
     url: https://stackoverflow.com/users/5541068/adam-noack
   - title: github
     url: https://github.com/a1noack
+  - title: facebook
+    url:https://www.facebook.com/adam.noack.94
 
 # Build settings
 markdown: kramdown
