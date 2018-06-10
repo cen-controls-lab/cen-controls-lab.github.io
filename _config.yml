@@ -6,7 +6,7 @@ description: "Hello! My name is Adam, and my mission is to help build provably s
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#000000'
+  primary-dark: '#003c49'
   links: '#219ab3'
 
 # Footer settings
