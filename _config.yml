@@ -1,5 +1,5 @@
 # Site settings
-title: CEN Data Driven Control and Reinforcement learning Lab
+title: CEN Data Driven Control Lab
 email: cencontrolslab@gmail.com
 url: https://cen-controls-lab.github.io/
 description: "Reinventing Control"
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Adam Noack
+footer: CEN Lab
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -18,10 +18,6 @@ social:
     url: https://www.linkedin.com/
   - title: github
     url: https://github.com/CEN-Control-Systems-Lab
-  - title: stack-overflow
-    url: https://stackoverflow.com/
-  - title: facebook
-    url: https://www.facebook.com/
 
 # Build settings
 markdown: kramdown
